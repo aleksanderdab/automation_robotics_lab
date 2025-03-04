@@ -23,14 +23,17 @@ The laboratory sessions cover a range of topics from basic linear programming to
 - Sensitivity analysis
 
 ### Lab 3: Dynamic Programming - Implementation in Python
+
 <a target="_blank" href="https://colab.research.google.com/github/AdoHaha/automation_robotics_lab/blob/master/lab_auto_3.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Understanding dynamic programming concepts
 - Implementing simple DP tasks
 - Result interpretation in production context
 
 ### Lab 4: Introduction to Non-linear Optimization
+
 <a target="_blank" href="https://colab.research.google.com/github/AdoHaha/automation_robotics_lab/blob/master/lab_auto_4.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -39,33 +42,41 @@ The laboratory sessions cover a range of topics from basic linear programming to
 - Solving example non-linear problems
 
 ### Lab 5: Scheduling with PuLP (Job Shop/Flow Shop Example)
+
 <a target="_blank" href="https://colab.research.google.com/github/AdoHaha/automation_robotics_lab/blob/master/lab_auto_5.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Modeling scheduling problems as integer programming
 - Implementing simple flow shop or job shop cases
 - Understanding computational complexity
 
 ### Lab 6: Network Methods - CPM/PERT in Python
+
 <a target="_blank" href="https://colab.research.google.com/github/AdoHaha/automation_robotics_lab/blob/master/lab_auto_6.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Learning critical path method
 - Implementing algorithms for time calculations
 - Getting familiar with PERT method
 
 ### Lab 7: Machine Learning Basics in Python - Regression and Classification
+
 <a target="_blank" href="https://colab.research.google.com/github/AdoHaha/automation_robotics_lab/blob/master/lab_auto_7.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Learning scikit-learn basics
 - Data loading, splitting, and model training
 - Result interpretation and model quality assessment
 
 ### Lab 8: Methods Integration - Forecasting + Optimization in PuLP
+
 <a target="_blank" href="https://colab.research.google.com/github/AdoHaha/automation_robotics_lab/blob/master/lab_auto_8.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Showing how ML can provide input data for optimization models
 - Implementing forecasting and optimization pipeline
 - Discussing practical aspects of ML and optimization integration
